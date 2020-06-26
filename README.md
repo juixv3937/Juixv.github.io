@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Welcome to XSNews
 
-You can use the [editor on GitHub](https://github.com/juixv3937/Juixv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, 这里信审外部舆情分析第一个版本，该版本为测试版本，只供参考，后续会进行优化。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+该系统共有以下功能：
 
-### Markdown
+- 今日关键词
+- 论坛监测
+  - 近期攻击手法
+  - 近期我行热帖
+- 公众号风险文章监测
+- 我行新上线产品外部评论
+  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 今日关键字
 
-# Header 1
-## Header 2
-### Header 3
+以下是今日的关键字，摘取至各论坛的关键字提炼，按出现频率进行评分
 
-- Bulleted
-- List
+论坛名 | 关键词 | 发帖量
+----- | ----- | -----
+我爱卡论坛 | 养卡（） | 200
+众鑫论坛 | 提额（） | 300
+公众号 | 无 | 10
 
-1. Numbered
-2. List
+### 论坛监测
 
-**Bold** and _Italic_ and `Code` text
+论坛监测现已接入`我爱卡论坛`、`飞客论坛`、`众鑫论坛`、`卡农社区`。
 
-[Link](url) and ![Image](src)
-```
+#### 近期攻击手法
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+以下是近期不同论坛攻击 `信用卡` 手法热帖，排名向下排序，排名越高涉及`风险浓度`越高
 
-### Jekyll Themes
+论坛名 | 上传日期 | 关键字 | 帖名 | 风险评分
+----- | ----- | ----- | ----- | -----
+众鑫论坛 | 2020/6/11 | 提额 | [有光大信用卡的进，在线暴力提额，保证翻倍提！](https://www.zhongxinwanka.com/thread-269136-1-1.html) | 90
+我爱卡论坛 | 2020/6/8 | 提额 | [万恶的废行，又搞事情了！](https://bbs.51credit.com/thread-6171703-1-1.html) | 89
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juixv3937/Juixv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 涉及我行字眼热帖
 
-### Support or Contact
+论坛名 | 上传日期 | 关键字 | 帖名
+----- | ----- | ----- | ----- 
+我爱卡论坛 | 2020/6/8 | 提额 | [广发这是准备割韭菜](https://bbs.51credit.com/thread-6174042-1-1.html)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 公众号风险文章
+
+公众号 | 上传日期 | 关键字 | 帖名
+----- | ----- | ----- | ----- 
+我爱卡论坛 | 2020/5/16 | 被拒 | [平安多次被拒,或有预审批额度,如何办卡达到99%下卡(黑户实操也下)](https://mp.weixin.qq.com/s?src=11&timestamp=1593147814&ver=2423&signature=xH-4Mg3tBdOVCwNVoah-wQiZeFZA1ahq2frLaggNqoSZYwKQbapv5HZmPk7s*ZVmt6Ix0PLwKcZFhuUNeZkYEehwH-b2RCvJT0qD7lJyKqoTyH*gHYfYtV3Gv5Q7iIWs&new=1)
+
+### 我行新产品外部评论
+
+正在更新中
