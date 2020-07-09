@@ -1,7 +1,7 @@
 ## Welcome to XSNews 
 
 Hi, 这里信审外部舆情分析第一个版本，该版本为测试版本，只供参考，后续会进行优化。
-目前更新至2020-7-9 22:39
+目前更新至2020-7-10 1:18
 
 该系统共有以下功能：
 
@@ -18,7 +18,7 @@ Hi, 这里信审外部舆情分析第一个版本，该版本为测试版本，�
 以下是今日的关键字，摘取至各论坛的关键字提炼，按出现频率进行评分
 
 论坛名 | 关键词 | 发帖量
------- | --------- | ---
+----- | ----- | -----
 飞客论坛 | 废行,积分,龙腾 | 29
 众鑫论坛 | 泰隆,2020,823 | 1
 
@@ -32,32 +32,35 @@ Hi, 这里信审外部舆情分析第一个版本，该版本为测试版本，�
 以下是近期不同论坛攻击 `信用卡` 手法热帖，排名向下排序，排名越高涉及`风险浓度`越高
 
 论坛名 | 上传日期 | 关键字 | 帖名 | 风险评分
----- | ----- | ----- | ----- | -----
+----- | ----- | ----- | ----- | -----
 飞客论坛 | 2020-6-20 | '实体', 'excel', '超市' | [广发京东支付也在天书里，建议大家走微信](http://www.flyertea.com/thread-3584685-1-1.html) | 73
 飞客论坛 | 2020-7-2 | '教程', '没换', '合并' | [销水钻，如何兑出来visa积分](http://www.flyertea.com/thread-3596899-1-1.html) | 60
 众鑫论坛 | 2020-6-22 | '评测', '信用卡', '查询' | [【卡评测】专业信用卡测评软件，信用卡大数据报告查询分析！](https://www.zhongxinwanka.com/thread-270594-1-1.html) | 57
-飞客论坛 | 2020/6/22 | '下卡' | [白户最好下的卡是什么卡？](http://www.flyertea.com/thread-3586782-1-1.html) | 56
-飞客论坛 | 2020/6/22 | '套权益' | [【广发银行】您的广发卡近期出现非正常交易/存在套取我行权益行为，按银行相关......](http://www.flyertea.com/thread-3559783-1-1.html) | 46
+我爱卡论坛 | 2020-6-20 | 薅羊毛，提额 ，降额，返现 | [广发京东支付也在天书里，以后大家走微信](https://bbs.51credit.com/thread-6189885-1-1.html) | 50
 
 #### 涉及我行字眼热帖
 
 论坛名 | 上传日期 | 关键字 | 帖名
------ | ----- | ------ | ----- 
+----- | ----- | ----- | ----- 
 飞客论坛 | 2020-7-8 | '不申', '犀利', '需求' | [所以，现在广发到底申请什么卡？](http://www.flyertea.com/thread-3607143-1-1.html)
 飞客论坛 | 2020-7-8 | '龙腾', '双持', '覆盖' | [水钻和高铁白双持，龙腾到底覆盖还是不覆盖？](http://www.flyertea.com/thread-3606116-1-1.html)
 飞客论坛 | 2020-7-4 | '销卡得', '投诉', '废行' | [小白卡50倍积分这个月最后一期了](http://www.flyertea.com/thread-3584324-1-1.html)
 飞客论坛 | 2020-6-20 | '犀利', '首卡', '秒批' | [广发首卡哪张合适？](http://www.flyertea.com/thread-3585107-1-1.html)
+卡农论坛 | 2020-6-24 | '风控'，'取现' | [广发信用卡有额度刷不出来怎么办啊？？有什么办法老哥们 ...](https://www.51kanong.com/xyk-3249722-1.htm) | 
+我爱卡论坛 | 2020-3-25 | '广发', '废行', '积分' | [驳斥广发8元论：广发专废品行低下的大老板](https://bbs.51credit.com/thread-6046299-1-1.html) | 
+
 
 ### 公众号风险文章
 
 公众号 | 上传日期 | 关键字 | 帖名
 ----- | ----- | ----- | ----- 
-畅聊支付 | 2020-06-09 | '里程', '广发' | [广发三代水钻上线,来看看能蹭多少权益](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwB5twBG9ac7Dy2ZzkdGzAolalnURhynKFqXa8Fplpd9HTHdtdzRxyZhCsPK4bsYjm-dy00wkYm9rjTATgUKdG767I3xX0S6h1doV0BakyF8FSNZExcXtQOYYrayM8V1IzT_dLIUoDGvLMo2IsslR2vrI4KXWBrWl6VLoDrky9F-hqJ5KCzwTN9b3xXRRwMkM5Ym4lCKgWg2zM8G_nTN2196VKrzu_4XKA..&type=2&query=%E7%95%85%E8%81%8A%E6%94%AF%E4%BB%98&token=00578F8FE8D3D5419F9A37722720013A9FC46C385F05B339)
-畅聊支付 | 2020-06-22 | '商户', '特约' | [广发天书,民生黑户破解办法解析](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwB5twBG9ac7W3iA1CDLkyIlalnURhynKFqXa8Fplpd9HTHdtdzRxyZhCsPK4bsYjm-dy00wkYm9rjTATgUKdG767I3xX0S6hx59qrbyzqKExASOXbv1NHSrMs0v2QbMoc0yKAih1L0-kf7C-aOzR6bG9PQbVJbT4WfFSg1ATsBGJk4UgPl6Sx90h6QrtfTxZfK7MtmT-BtPDGJG55RHeJW00NVofL2iDw..&type=2&query=%E7%95%85%E8%81%8A%E6%94%AF%E4%BB%98&token=005764C5E8D3D5419F9A37722720013A9FC46C385F05B32B)
-卡界嬷嬷 | 2020-06-18 | '信用卡', '风控' | [广发银行官方通告!这些信用卡将被限制交易,被限制、风控后如何解救?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwB5twBG9ac7gZf9NanNezUlalnURhynKFqXa8Fplpd9vReBToRZCMDoFQ7Ia91E2xsugQ3QGDZa7FZ9XiYVysiRcS9xKiO_mCcJ6DpCN4TGgCrSSNwf7tBLsivGoLyZ2K90oRO8sX27XTCg6ZCYXbZRnMEzxtBy35b9p_-IHPp71Ru4X7IOK9Haqex0fXnY_lDOTwin14cqOkfOR_BVefsYJSSFPgfogQ..&type=2&query=%E5%8D%A1%E7%95%8C%E5%AC%B7%E5%AC%B7&token=004D70A6162C2A80605AC98CE922E28760CBEB6F5F05B013)
-畅聊支付 | 2020-06-19 | '积分', '里程' | [局势大变,五家银行同时温暖升级!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwB5twBG9ac7jTYSzVPc2P4lalnURhynKFqXa8Fplpd9HTHdtdzRxyZhCsPK4bsYjm-dy00wkYm9rjTATgUKdG767I3xX0S6h8i93zzaNiRMP-w5jDtFRadV9ouePs-i5za4GFxT-VvfRAGf5lRUe6XAJJqpbPvmDomVkW1_0i9UFhPQ8QCv7orUYeYX97i95u_W_zAWAH2bX6TtNVaNEOJflztgI7RZ1g..&type=2&query=%E7%95%85%E8%81%8A%E6%94%AF%E4%BB%98&token=0057778EE8D3D5419F9A37722720013A9FC46C385F05B331)
-卡界嬷嬷 | 2020-06-20 | '积分', '信用卡' | [重磅噩耗!民生取消19家POS机交易积分,广发宣布102万个商户消费不再积分!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwB5twBG9ac7OR8ErdbEMmklalnURhynKFqXa8Fplpd9vReBToRZCMDoFQ7Ia91E2xsugQ3QGDZa7FZ9XiYVysiRcS9xKiO_mKKfcXdsgptqvkqgsIAcbXQG5VZV6fb8SFJeNxZnPuRd-WvO6mGZV9LCeLUHxiDYKey9In_Xj9dDhruJQ8B2YJmarSGI11SQtmF7TsUBxBDadEnJbdXEsijFcvUoAZZH7Q..&type=2&query=%E5%8D%A1%E7%95%8C%E5%AC%B7%E5%AC%B7&token=004DA962162C2A80605AC98CE922E28760CBEB6F5F05B026)
-卡卡说钱 | 2020-06-24 | '积分', '返现' | [六张神卡,抓紧注销!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwB5twBG9ac7Y2ZzMrGX8JAlalnURhynKFqXa8Fplpd9W_4vGyZVSFL61o7eI8sRCXsSo3GqbKUFpTo6_jf5al6Yf0MmY85pAhBbxphANMqx-e4TZSkz7zbpvnhbpOk9UjJOfrYBoB7e1YH-xuuvcdf2wbTN7g_E2NgOuJSY8KVKLskKsT2Bqdt0k5OAh8-UQQM35qXwErfGAao1V0t9jeUY-UZGbO56rA..&type=2&query=%E5%8D%A1%E5%8D%A1%E8%AF%B4%E9%92%B1&token=0053235ED3E9EF7AA5A00F4A05358D62A6CB03A75F05B1D4)
+畅聊支付 | 2020-06-09 | '里程', '广发' | [广发三代水钻上线,来看看能蹭多少权益](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-J042nCu3jAbCf_A7nIWOGMlzjATHGFeFqXa8Fplpd9O-adlJz6d3yHkVDamzd6E7LuAhTYiaXbLMM7ROUp6xCy_dd0TKDkBXWu7PpFKSPYEy-JSnIpxpb15AiYRE95gPuV-uCa6-SahpUAHEkEKCfhT0PZX4a5Oq3fkuWptEDUGqT5BqR6mi_Ff2wrhtLRF-d4YYh_PS_SxD_emfSvKqt6VKrzu_4XKA..&type=2&query=%E7%95%85%E8%81%8A%E6%94%AF%E4%BB%98&token=05DF50D233730AE04045EA3A1D52B1F140542E7A5F074CC4)
+畅聊支付 | 2020-06-22 | '商户', '特约' | [广发天书,民生黑户破解办法解析](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-J042nCu3jA4aA-LbXAcZeMlzjATHGFeFqXa8Fplpd9O-adlJz6d3yHkVDamzd6E7LuAhTYiaXbLMM7ROUp6xCy_dd0TKDkBfPJp-9QWqT_ylhVFjbXrfqZ338N8rUVhNkDb8lDaToQfx5rntbVLNY1nMkuevt4RecYGjUp-qRyv4CSY11-Xkv2Abcgl7DB7Ro2p5yeCBzex7f3-agjHVASYTqT4eyLmA..&type=2&query=%E7%95%85%E8%81%8A%E6%94%AF%E4%BB%98&token=05DF2D1233730AE04045EA3A1D52B1F140542E7A5F074CB8)
+卡界嬷嬷 | 2020-06-18 | '信用卡', '风控' | [广发银行官方通告!这些信用卡将被限制交易,被限制、风控后如何解救?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-J042nCu3jANp8P4IXrgzGMlzjATHGFeFqXa8Fplpd9dylPAJEG3mSKOswKdcPfbYqSolPh2NoOnDtiMKiK72h6yppQffzK8J-kRKhv8Q-1OdCGiXtEL_cPVOB7Kk5WfgilzD-4SjvGDpteZ8ZlxdXE87lPlyu8Xb3EI33_d31eJQYsZZlTtrayi6aNEySIFhM17SVTazgblFQIhb6X_PzdrgozfSg6bw..&type=2&query=%E5%8D%A1%E7%95%8C%E5%AC%B7%E5%AC%B7&token=05E6ABC8410007934C48E7490B022A794D4BA68B5F074F2F)
+畅聊支付 | 2020-06-19 | '积分', '里程' | [局势大变,五家银行同时温暖升级!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-J042nCu3jAg2Hh1qDeeJmMlzjATHGFeFqXa8Fplpd9O-adlJz6d3yHkVDamzd6E7LuAhTYiaXbLMM7ROUp6xCy_dd0TKDkBZL-wHBAu_peDq96PY74eYOm6KdxHkcmWyx322NPrCWH9qDFW1FhFKd368rTqDTO5blaMFZ_3vtJMdkYHDg8dd4_OchK0dEKZgMIG4UO5-3T7taahyhgtvU89kyxDwoXvg..&type=2&query=%E7%95%85%E8%81%8A%E6%94%AF%E4%BB%98&token=05DF343733730AE04045EA3A1D52B1F140542E7A5F074CBA)
+卡界嬷嬷 | 2020-06-20 | '积分', '信用卡' | [重磅噩耗!民生取消19家POS机交易积分,广发宣布102万个商户消费不再积分!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-J042nCu3jAoWJQBadOJRWMlzjATHGFeFqXa8Fplpd9dylPAJEG3mSKOswKdcPfbYqSolPh2NoOnDtiMKiK72h6yppQffzK8OU6k4qKZqLY-p6Cvk56et0hLgwzuMD4a6W3y-i6yJuYkylOXvMy4p6rlXreYnWWM_kSpjEWphY6lYlRMX2T77MbJ_3LJ_dkIunUgrZnNZl7fWT99C_id3ROJBjQH7pCxQ..&type=2&query=%E5%8D%A1%E7%95%8C%E5%AC%B7%E5%AC%B7&token=05E6E118410007934C48E7490B022A794D4BA68B5F074F3F)
+卡卡说钱 | 2020-06-24 | '积分', '返现' | [六张神卡,抓紧注销!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-J042nCu3jAG4uFvDG-3DyMlzjATHGFeFqXa8Fplpd9W7bFE0j5lhYxVogOYGmZynZ-nxKSucliNGFYqZtEXVCrvDPR0wFBifyOR_UZRwmOBHW-IcVmK--jKCsJkz45NlxozhMa-ZkIUAq6QGxhnbaxY846kPVbdYVRWF1mDVh6ADxZ7Hj-TM0FjW7wmDShn-kPp33wL4gGy1SRz94chRsO8fIRwtipOg..&type=2&query=%E5%8D%A1%E5%8D%A1%E8%AF%B4%E9%92%B1&token=05E3E930D7979103DCD976D9E28FCFE7DC0D1FCF5F074E4A)
+
 
 
 
