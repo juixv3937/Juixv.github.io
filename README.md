@@ -11,12 +11,12 @@ Hi, 这里信审外部舆情分析第一个版本，该版本为测试版本，�
   - 中介攻击手法 
   - 新产品舆论
 - 公众号文章监测
-- 热帖检测
+- 热帖监测
 - 新产品测评
   
 ### 舆情指数
 
-以下摘自百度指数，反映了互联网用户对键词搜索`关注程度`及持续变化情况。如果非新产品上线的情况下出现异常的上升，就可能发生了攻击.转自[百度指数](http://index.baidu.com)
+以下摘自百度指数，反映了互联网用户对键词搜索`关注程度`及持续变化情况。如果非新产品上线的情况下出现异常的上升，就可能发生了攻击.转自[百度指数](http://index.baidu.com/v2/main/index.html#/trend/%E5%B9%BF%E5%8F%91%E4%BF%A1%E7%94%A8%E5%8D%A1?words=%E5%B9%BF%E5%8F%91%E4%BF%A1%E7%94%A8%E5%8D%A1)
 
 
 关键词 | 今日指数 | 近7日均值 | 昨日环比变化 | 
@@ -86,7 +86,7 @@ Hi, 这里信审外部舆情分析第一个版本，该版本为测试版本，�
 卡界嬷嬷 | 2020-06-18 | '信用卡', '风控' | [广发银行官方通告!这些信用卡将被限制交易,被限制、风控后如何解救?](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5_o8SE5nw5hsqOcxv3Og-EL6Aa7TERuoVqXa8Fplpd9DpwJRHT43BxcjFlwZt6eL0a5cfEikz9ScwuUU3OZSD2PAU__Al2XI9t3XBAEGurJiYKlo614ENMsBQ4mdFepGUCAacswPEVzLGuXA1uczpUD4O4sx-Y4A2gFrcNqY5l3na7wmZcNEr-POSfApkrWZttBeFivvJvk1BSZTTyuzgrP28temKTOwg..&type=2&query=%E5%8D%A1%E7%95%8C%E5%AC%B7%E5%AC%B7&token=16B744229AD9DB661E1AB4553212C1B71F1D446F5F0BE3D6)
 畅聊支付 | 2020-06-19 | '积分', '里程' | [局势大变,五家银行同时温暖升级!](https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5_o8SE5nw5hAcvT2iFhxwQL6Aa7TERuoVqXa8Fplpd9tEZ8oeGST51JZsesFXD5y5lXoq5T2w_e8dlBBbvrhW_oV-XZo1yF4QKKM2cb_Bc3IVuGP8sMU0s_b4TjeaTIHxvzKmZEmn9GqreLbobvyvJcGxJ0MlNVnYVaTtipEpkDdqgRIY0fJ1TOREaks23FXkMHWF9PTKvl_zXzDROvOLT6zvkPgoArRQ..&type=2&query=%E7%95%85%E8%81%8A%E6%94%AF%E4%BB%98&token=16B18BAE733E3280F8FD5DB3E0C83D86F8B65D7A5F0BE283)
 
-### 热帖检测
+### 热帖监测
 
 论坛名 | 上传日期 | 关键字 | 帖名 | 浏览量
 ----- | ---- | ------- | ----- | -----
